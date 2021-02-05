@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    font-family: 'Quicksand', serif;
+}
+h1{
+    font-weight: lighter;
+    color: #1E90FF;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    margin: 8px;
+    padding: 0;
+    font-size: 20px;
+    display: inline-block;
+}
+main{
+    text-align: center;
+}
+.block{
+    display: inline-block;
+    margin: 0 50px;
+}
+.block p{
+    display: inline-block;
+    margin: 10px 10px;
+}
+#placeholder{
+    margin: 50px auto;
+    display: block;
+}
+
+#placeholder:hover {
+    opacity: 0.6;
+}
